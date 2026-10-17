@@ -1,5 +1,8 @@
 # Radio con Liquidsoap y Listen2MyRadio
 
+<img width="1123" height="1400" alt="Panel de Control de Radio En Línea" src="https://github.com/user-attachments/assets/4448435d-40c3-44bf-ad53-1022e00ae81a" />
+
+
 Servidor de radio online autoalojado en un contenedor LXC de Proxmox. Liquidsoap reproduce archivos MP3 locales y envía el audio a un servidor de streaming Listen2MyRadio mediante Shoutcast v2.
 
 ## Características
